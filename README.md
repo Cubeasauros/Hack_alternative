@@ -4,6 +4,6 @@ Hack_alternative team for SIH
 basic test bot for testing the wit.ai api
 
 usage :
-  '''python 
+```python 
   python chatbot.py [your query]
-  '''
+```
